@@ -1,0 +1,58 @@
+# Gradle files
+.gradle/
+build/
+app/build/
+**/build/
+**/captures/
+**/outputs/
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Generated files
+*.class
+*.jar
+*.war
+*.hprof
+*.apk
+*.ap_
+*.dex
+*.so
+*.dSYM
+
+# Proguard
+proguard/outputs/
+proguard/*.txt
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# Keystore files
+*.jks
+*.keystore
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+*.orig
+*.lock
+*.zip
+*.tar.gz
+*.tgz
+
+# Kotlin specific
+*.kt~
+out/
+*.kotlin_metadata
+
+# Android Studio captures
+captures/
